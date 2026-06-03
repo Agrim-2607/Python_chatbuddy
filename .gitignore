@@ -1,0 +1,8 @@
+.env
+# HOW TO START
+#.\venv\Scripts\activate
+# streamlit run app.py
+__pycache__/
+venv/
+*.pyc
+app_backup.py
